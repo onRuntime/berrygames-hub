@@ -1,0 +1,8 @@
+main: net.berrygames.hub.Hub
+name: Hub
+
+authors: [3DX900, Noctember, ChocoIG]
+version: 1.0
+
+depend:
+  - Core
